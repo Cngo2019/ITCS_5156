@@ -3,6 +3,8 @@
 These are the notebooks for my entire project journey. Sometimes I had to go back and change stuff like showing the numbers, rerunning cells to get different splits, etc.
 
 The notebooks are meant to be run by the number next to them - so 1, 2, 3, 4, and 5.
+# Link to the dataset:
+https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008
 
 # Main Paper:
 
